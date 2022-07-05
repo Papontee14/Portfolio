@@ -371,7 +371,7 @@ p {
     margin: 7.5% 0 0 0;
     display: flex;
     width: 35px;
-    height: fit-content;
+    height: 35px;
     padding-left: 50px;
     visibility: visible;
   }
