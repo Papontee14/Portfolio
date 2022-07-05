@@ -388,7 +388,7 @@ p {
   }
   .box-0{
     width: 100%;
-    margin-top: 20%;
+    margin-top: 40%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -482,7 +482,7 @@ p {
   }
 
   .swiper{
-    width: 60%;
+    width: 80%;
   }
   .swiper img{
     height: 80%;
